@@ -92,6 +92,7 @@ public class WebSiteTest {
 		desire.sendKeys(product);
 		driver.findElement(By.xpath("//input[@id='nav-search-submit-button']")).click();
 		
+		//some changes made by tester
 		
 	}
 }
